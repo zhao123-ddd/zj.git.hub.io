@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1afff01d-e85f-4a10-a8f8-c6d53cb0402f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UJcYkNsrvemGbE2lEbPbdZDr3T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.MySortDemo">
+    <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySort" />
+      <module name="java DS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySortDemo" />
+      <module name="java DS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opeation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opeation" />
+      <module name="java DS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Process" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Process" />
+      <module name="java DS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SolutionDemo" />
+      <module name="java DS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MySortDemo" />
+        <item itemvalue="Application.MySort" />
+        <item itemvalue="Application.SolutionDemo" />
+        <item itemvalue="Application.Process" />
+        <item itemvalue="Application.Opeation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1afff01d-e85f-4a10-a8f8-c6d53cb0402f" name="Default Changelist" comment="" />
+      <created>1575078187370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575078187370</updated>
+      <workItem from="1575078190577" duration="3805000" />
+      <workItem from="1575098650500" duration="3280000" />
+      <workItem from="1575107344781" duration="889000" />
+      <workItem from="1575283790998" duration="16000" />
+      <workItem from="1575767085209" duration="1213000" />
+      <workItem from="1575769884694" duration="680000" />
+      <workItem from="1575770636771" duration="5236000" />
+      <workItem from="1575787145328" duration="1538000" />
+      <workItem from="1575788730396" duration="4088000" />
+      <workItem from="1575794478233" duration="2683000" />
+      <workItem from="1575974436714" duration="17000" />
+      <workItem from="1576150959878" duration="1776000" />
+      <workItem from="1576156436251" duration="1633000" />
+      <workItem from="1576399764317" duration="1130000" />
+      <workItem from="1576977003622" duration="7256000" />
+      <workItem from="1577001732092" duration="4170000" />
+      <workItem from="1577018768966" duration="1320000" />
+      <workItem from="1577357507232" duration="1366000" />
+      <workItem from="1577365844249" duration="752000" />
+      <workItem from="1579862975539" duration="343000" />
+      <workItem from="1579877719973" duration="873000" />
+      <workItem from="1579879250021" duration="672000" />
+      <workItem from="1579879947959" duration="1107000" />
+      <workItem from="1579962457233" duration="351000" />
+      <workItem from="1580812707454" duration="4347000" />
+      <workItem from="1581500452091" duration="1887000" />
+      <workItem from="1581589549793" duration="5366000" />
+      <workItem from="1581739345786" duration="3390000" />
+      <workItem from="1581829161667" duration="833000" />
+      <workItem from="1581916229347" duration="1771000" />
+      <workItem from="1582111606686" duration="2201000" />
+      <workItem from="1582257105517" duration="3914000" />
+      <workItem from="1582356140411" duration="3533000" />
+      <workItem from="1582429960432" duration="700000" />
+      <workItem from="1582626960913" duration="4300000" />
+      <workItem from="1582799510327" duration="1699000" />
+      <workItem from="1582852710580" duration="1771000" />
+      <workItem from="1582938348055" duration="1197000" />
+      <workItem from="1583050802358" duration="14000" />
+      <workItem from="1583133568500" duration="4748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1583141582944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583141582944" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1583141582943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583141582943" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1583141582943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583141582943" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1583141582943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583141582943" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1579962821972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579962821972" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1583050812440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583050812440" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583137128796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583137128796" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Process.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
