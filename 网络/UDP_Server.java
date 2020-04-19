@@ -8,7 +8,7 @@ import java.net.DatagramSocket;
 import java.util.Arrays;
 import java.util.*;
 
-public class Server {
+public class UDP_Server {
     public static void main(String[] args) throws IOException {
         // 1. 创建 Server 的 Socket
         //    内部会进行本地 ip + port 的绑定

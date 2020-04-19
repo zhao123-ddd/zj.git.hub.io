@@ -5,7 +5,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.util.Scanner;
-public class Client {
+public class UDP_Client {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         try (DatagramSocket socket = new DatagramSocket()) {
