@@ -1,3 +1,4 @@
+package JDBC;
 public class Solution {
     public boolean isNumeric(char[] str) {
         if(str==null)
