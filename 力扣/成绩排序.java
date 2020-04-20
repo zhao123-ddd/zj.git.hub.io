@@ -1,8 +1,13 @@
+package 力扣;
 /*第一行 人数
 第二行0逆序1升序
 后面姓名+成绩 空格隔开
  */
-package 力扣;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Scanner;
+
 import java.util.*;
 class student {
     public String name;
@@ -13,8 +18,7 @@ class student {
         this.score = score;
     }
 }
-
-class 成绩排序 {
+public class 成绩排序  {
     public static void main(String[]args){
      Scanner scanner=new Scanner(System.in);
      while(scanner.hasNext()){
@@ -45,5 +49,3 @@ class 成绩排序 {
      }
      }
     }
-
-
